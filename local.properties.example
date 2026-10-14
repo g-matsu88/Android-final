@@ -1,0 +1,3 @@
+# Copy this file to local.properties (Android Studio creates it automatically,
+# just add the line below). Get a free key at https://aistudio.google.com/apikey
+GEMINI_KEY=PASTE_YOUR_KEY_HERE
